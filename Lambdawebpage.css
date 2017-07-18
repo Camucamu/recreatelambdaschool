@@ -1,0 +1,45 @@
+
+  #bigdiv {
+    background-color: blue;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    top: 0px;
+    background:
+        linear-gradient(
+        rgba(110, 195, 255, 0.45),
+        rgba(110, 195, 255, 0.45)
+      ),
+      url(https://lambdaschool.com/assets/img/background.jpg);
+
+
+}
+
+#center {
+  color: #F0FAF0;
+font-size: 60px;
+font-weight: bold;
+text-align: center;
+margin: auto;
+padding: 0px;
+width: 60%;
+font-family: 'Lora','Helvetica','Arial',sans-serif;
+}
+
+#secondText {
+  color: white;
+  font-family: 'Lora','Helvetica','Arial',sans-serif;
+  font-weight: 100;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  vertical-align: top;
+}
+
+#nextpage {
+  font-size: 22px;
+}
